@@ -1,0 +1,30 @@
+{
+  "name": "@thumbsu/eslint-config",
+  "version": "0.0.1",
+  "description": "eslint config for typescript user",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "thumbsu <uumj222@gmail.com>",
+  "homepage": "https://github.com/thumbsu/eslint-config#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thumbsu/eslint-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
+    "@typescript-eslint/parser": "^5.23.0",
+    "eslint": "^8.15.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/thumbsu/eslint-config/issues"
+  }
+}
